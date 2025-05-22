@@ -94,7 +94,13 @@ Simply upload the HTML file to your hosting provider's web directory.
 
 ## 📄 License
 
-This code is provided as-is for the BA Sync business website. Modify and use according to your business needs.
+This code is provided as-is for the BA Sync business website.
+<!-- 
+BA Sync Website
+© 2025 BA Sync. All rights reserved.
+Custom code and design proprietary to BA Sync.
+Built with open-source frameworks (Bootstrap, Font Awesome).
+-->
 
 ---
 
